@@ -1,0 +1,8 @@
+Ajoute ici ton export PNG du diagramme draw.io.
+
+Nom du fichier attendu : diagramme.png
+
+Pour exporter depuis draw.io :
+1. Fichier → Exporter vers → PNG
+2. Cocher "Ajuster la page"
+3. Résolution recommandée : 150 dpi minimum
